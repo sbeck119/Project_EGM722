@@ -1,4 +1,4 @@
-name: Project_Egm722
+name: newproj_env
 channels:
   - conda-forge
   - defaults
