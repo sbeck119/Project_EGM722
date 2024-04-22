@@ -1,0 +1,583 @@
+WARDNAME,Ward Code,Usually Resident Population,Usually Resident Population (%)
+Aldergrove,95AA01,"4,444",0.25
+Balloo,95AA02,"1,734",0.1
+Ballycraigy,95AA03,"1,822",0.1
+Clady,95AA04,"3,013",0.17
+Cranfield,95AA05,"2,701",0.15
+Crumlin (Antrim LGD),95AA06,"4,647",0.26
+Drumanaway,95AA07,"2,140",0.12
+Farranshane,95AA08,"1,698",0.09
+Fountain Hill,95AA09,"2,220",0.12
+Greystone (Antrim LGD),95AA10,"1,953",0.11
+Massereene,95AA11,"5,364",0.3
+Parkgate,95AA12,"2,775",0.15
+Randalstown,95AA13,"3,307",0.18
+Shilvodan,95AA14,"2,349",0.13
+Springfarm,95AA15,"4,186",0.23
+Steeple,95AA16,"1,807",0.1
+Stiles,95AA17,"2,142",0.12
+Templepatrick,95AA18,"2,439",0.13
+Toome,95AA19,"2,687",0.15
+Ballygowan,95BB01,"3,609",0.2
+Ballyrainey,95BB02,"2,347",0.13
+Ballywalter,95BB03,"4,219",0.23
+Bradshaw's Brae,95BB04,"3,048",0.17
+Carrowdore,95BB05,"3,401",0.19
+Central (Ards LGD),95BB06,"2,870",0.16
+Comber East,95BB07,"2,953",0.16
+Comber North,95BB08,"2,625",0.14
+Comber West,95BB09,"2,943",0.16
+Donaghadee North,95BB10,"3,327",0.18
+Donaghadee South,95BB11,"2,955",0.16
+Glen,95BB12,"2,776",0.15
+Gregstown,95BB13,"4,444",0.25
+Killinchy,95BB14,"3,116",0.17
+Kircubbin,95BB15,"3,489",0.19
+Lisbane,95BB16,"3,136",0.17
+Loughries,95BB17,"3,556",0.2
+Millisle,95BB18,"4,279",0.24
+Movilla,95BB19,"4,788",0.26
+Portaferry,95BB20,"3,413",0.19
+Portavogie,95BB21,"4,719",0.26
+Scrabo,95BB22,"3,040",0.17
+Whitespots,95BB23,"3,025",0.17
+Abbey Park,95CC01,"2,558",0.14
+Ballymartrim,95CC02,"2,725",0.15
+Callan Bridge,95CC03,"2,817",0.16
+Carrigatuke,95CC04,"2,440",0.13
+Charlemont,95CC05,"2,774",0.15
+Demesne,95CC06,"2,776",0.15
+Derrynoose,95CC07,"3,475",0.19
+Downs,95CC08,"2,565",0.14
+Hamiltonsbawn,95CC09,"3,354",0.19
+Hockley,95CC10,"2,577",0.14
+Keady,95CC11,"1,795",0.1
+Killeen,95CC12,"2,785",0.15
+Killylea,95CC13,"2,474",0.14
+Laurelvale,95CC14,"3,035",0.17
+Loughgall,95CC15,"2,903",0.16
+Markethill,95CC16,"2,820",0.16
+Milford,95CC17,"2,730",0.15
+Observatory,95CC18,"2,342",0.13
+Poyntz Pass,95CC19,"2,720",0.15
+Rich Hill,95CC20,"3,010",0.17
+Tandragee,95CC21,"2,925",0.16
+The Mall,95CC22,"1,740",0.1
+Academy,95DD01,"2,099",0.12
+Ahoghill,95DD02,"3,888",0.21
+Ardeevin,95DD03,"3,503",0.19
+Ballee,95DD04,"1,926",0.11
+Ballykeel,95DD05,"1,739",0.1
+Ballyloughan,95DD06,"2,588",0.14
+Broughshane,95DD07,"3,363",0.19
+Castle Demesne,95DD08,"2,126",0.12
+Craigywarren,95DD09,"2,590",0.14
+Cullybackey,95DD10,"2,805",0.15
+Dunclug,95DD11,"2,363",0.13
+Dunminning,95DD12,"2,610",0.14
+Fair Green,95DD13,"1,784",0.1
+Galgorm,95DD14,"3,277",0.18
+Glenravel,95DD15,"3,451",0.19
+Glenwhirry,95DD16,"2,981",0.16
+Grange,95DD17,"3,461",0.19
+Harryville,95DD18,"1,885",0.1
+Kells,95DD19,"3,364",0.19
+Moat,95DD20,"1,746",0.1
+Park,95DD21,"2,139",0.12
+Portglenone,95DD22,"3,136",0.17
+Slemish,95DD23,"2,509",0.14
+Summerfield,95DD24,"2,711",0.15
+Ballyhoe and Corkey,95EE01,"1,895",0.1
+Benvardin,95EE02,"2,095",0.12
+Carnany,95EE03,"1,999",0.11
+Clogh Mills,95EE04,"1,993",0.11
+Dervock,95EE05,"1,509",0.08
+Dunloy,95EE06,"2,278",0.13
+Fairhill,95EE07,"1,798",0.1
+Glebe (Ballymoney LGD),95EE08,"1,719",0.09
+Killoquin Lower,95EE09,"1,890",0.1
+Killoquin Upper,95EE10,"1,797",0.1
+Knockaholet,95EE11,"1,677",0.09
+Newhill,95EE12,"2,507",0.14
+Route,95EE13,"1,529",0.08
+Seacon,95EE14,"2,684",0.15
+Stranocum,95EE15,"1,728",0.1
+The Vow,95EE16,"2,126",0.12
+Ballydown,95FF01,"4,796",0.26
+Ballyward,95FF02,"2,817",0.16
+Banbridge West,95FF03,"3,006",0.17
+Bannside,95FF04,"2,629",0.15
+Dromore North,95FF05,"2,563",0.14
+Dromore South,95FF06,"4,116",0.23
+Edenderry (Banbridge LGD),95FF07,"2,769",0.15
+Fort,95FF08,"2,364",0.13
+Gilford,95FF09,"2,522",0.14
+Gransha,95FF10,"3,473",0.19
+Katesbridge,95FF11,"2,582",0.14
+Lawrencetown,95FF12,"2,724",0.15
+Loughbrickland,95FF13,"2,708",0.15
+Quilly,95FF14,"2,432",0.13
+Rathfriland,95FF15,"2,740",0.15
+Seapatrick,95FF16,"2,374",0.13
+The Cut,95FF17,"1,724",0.1
+Andersonstown,95GG01,"4,907",0.27
+Ardoyne,95GG02,"5,987",0.33
+Ballyhackamore,95GG03,"5,939",0.33
+Ballymacarrett,95GG04,"4,908",0.27
+Ballynafeigh,95GG05,"5,928",0.33
+Ballysillan,95GG06,"5,626",0.31
+Beechmount,95GG07,"5,485",0.3
+Bellevue,95GG08,"4,910",0.27
+Belmont,95GG09,"6,165",0.34
+Blackstaff,95GG10,"3,998",0.22
+Bloomfield (Belfast LGD),95GG11,"5,453",0.3
+Botanic,95GG12,"8,945",0.49
+Castleview,95GG13,"4,722",0.26
+Cavehill,95GG14,"4,820",0.27
+Cherryvalley,95GG15,"5,920",0.33
+Chichester Park,95GG16,"5,452",0.3
+Cliftonville,95GG17,"5,330",0.29
+Clonard,95GG18,"4,975",0.27
+Crumlin (Belfast LGD),95GG19,"4,582",0.25
+Duncairn,95GG20,"4,901",0.27
+Falls,95GG21,"5,184",0.29
+Falls Park,95GG22,"5,343",0.3
+Finaghy,95GG23,"4,555",0.25
+Fortwilliam,95GG24,"4,561",0.25
+Glen Road,95GG25,"5,573",0.31
+Glencairn,95GG26,"3,749",0.21
+Glencolin,95GG27,"6,498",0.36
+Highfield,95GG28,"5,651",0.31
+Island,95GG29,"5,014",0.28
+Knock,95GG30,"4,827",0.27
+Ladybrook,95GG31,"6,519",0.36
+Legoniel,95GG32,"6,409",0.35
+Malone,95GG33,"5,555",0.31
+Musgrave,95GG34,"4,927",0.27
+New Lodge,95GG35,"4,950",0.27
+Orangefield,95GG36,"5,619",0.31
+Ravenhill,95GG37,"6,041",0.33
+Rosetta,95GG38,"6,564",0.36
+Shaftesbury,95GG39,"7,214",0.4
+Shankill,95GG40,"3,816",0.21
+Stormont,95GG41,"5,548",0.31
+Stranmillis,95GG42,"8,139",0.45
+Sydenham,95GG43,"4,874",0.27
+The Mount,95GG44,"5,591",0.31
+Upper Malone,95GG45,"4,841",0.27
+Upper Springfield,95GG46,"5,250",0.29
+Water Works,95GG47,"5,829",0.32
+Whiterock,95GG48,"5,694",0.31
+Windsor,95GG49,"8,141",0.45
+Woodstock,95GG50,"5,445",0.3
+Woodvale,95GG51,"4,088",0.23
+Blackhead,95HH01,"2,059",0.11
+Bluefield,95HH02,"2,962",0.16
+Boneybefore,95HH03,"1,663",0.09
+Burleigh Hill,95HH04,"3,067",0.17
+Clipperstown,95HH05,"2,171",0.12
+Eden,95HH06,"4,797",0.26
+Gortalee,95HH07,"1,493",0.08
+Greenisland,95HH08,"2,619",0.14
+Killycrot,95HH09,"2,620",0.14
+Knockagh,95HH10,"2,489",0.14
+Love Lane,95HH11,"1,417",0.08
+Milebush,95HH12,"1,552",0.09
+Northland,95HH13,"1,407",0.08
+Sunnylands,95HH14,"1,530",0.08
+Victoria (Carrickfergus LGD),95HH15,"2,630",0.15
+Whitehead,95HH16,"2,159",0.12
+Woodburn,95HH17,"2,479",0.14
+Ballyhanwood,95II01,"3,084",0.17
+Beechill,95II02,"4,961",0.27
+Cairnshill,95II03,"3,523",0.19
+Carrowreagh,95II04,"4,317",0.24
+Carryduff East,95II05,"3,546",0.2
+Carryduff West,95II06,"3,398",0.19
+Cregagh,95II07,"2,090",0.12
+Downshire,95II08,"2,417",0.13
+Dundonald,95II09,"3,363",0.19
+Enler,95II10,"2,592",0.14
+Galwally,95II11,"2,567",0.14
+Gilnahirk,95II12,"2,512",0.14
+Graham's Bridge,95II13,"2,702",0.15
+Hillfoot,95II14,"2,561",0.14
+Knockbracken,95II15,"3,357",0.19
+Lisnasharragh,95II16,"2,126",0.12
+Lower Braniel,95II17,"2,493",0.14
+Minnowburn,95II18,"2,226",0.12
+Moneyreagh,95II19,"3,770",0.21
+Newtownbreda,95II20,"2,780",0.15
+Tullycarnet,95II21,"2,419",0.13
+Upper Braniel,95II22,"2,248",0.12
+Wynchurch,95II23,"2,190",0.12
+Agivey,95JJ01,"2,499",0.14
+Atlantic,95JJ02,"2,374",0.13
+Ballysally,95JJ03,"2,470",0.14
+Castlerock,95JJ04,"3,111",0.17
+Central (Coleraine LGD),95JJ05,"1,835",0.1
+Churchland,95JJ06,"2,472",0.14
+Cross Glebe,95JJ07,"2,665",0.15
+Dundooan,95JJ08,"3,276",0.18
+Dunluce,95JJ09,"1,990",0.11
+Garvagh,95JJ10,"2,795",0.15
+Hopefield,95JJ11,"3,770",0.21
+Kilrea,95JJ12,"2,724",0.15
+Knocklynn,95JJ13,"3,895",0.22
+Macosquin,95JJ14,"2,325",0.13
+Mount Sandel,95JJ15,"1,879",0.1
+Portstewart,95JJ16,"1,799",0.1
+Ringsend,95JJ17,"2,455",0.14
+Royal Portrush,95JJ18,"2,032",0.11
+Strand (Coleraine LGD),95JJ19,"2,942",0.16
+The Cuts,95JJ20,"4,092",0.23
+University,95JJ21,"2,873",0.16
+Waterside,95JJ22,"2,794",0.15
+Ardboe,95KK01,"2,578",0.14
+Coagh,95KK02,"2,029",0.11
+Dunnamore,95KK03,"2,357",0.13
+Gortalowry,95KK04,"2,787",0.15
+Killycolpy,95KK05,"2,616",0.14
+Killymoon,95KK06,"1,885",0.1
+Lissan,95KK07,"2,045",0.11
+Moneymore,95KK08,"2,646",0.15
+Newbuildings,95KK09,"2,187",0.12
+Oaklands,95KK10,"2,181",0.12
+Oldtown,95KK11,"2,373",0.13
+Pomeroy,95KK12,"2,309",0.13
+Sandholes,95KK13,"1,817",0.1
+Stewartstown,95KK14,"2,041",0.11
+The Loop,95KK15,"2,946",0.16
+Tullagh,95KK16,"2,216",0.12
+Aghagallon,95LL01,"4,931",0.27
+Annagh,95LL02,"3,042",0.17
+Ballybay,95LL03,"2,436",0.13
+Ballyoran,95LL04,"2,985",0.16
+Bleary,95LL05,"4,119",0.23
+Brownstown,95LL06,"3,372",0.19
+Church,95LL07,"2,131",0.12
+Corcrain,95LL08,"3,320",0.18
+Court,95LL09,"3,150",0.17
+Derrytrasna,95LL10,"5,475",0.3
+Donaghcloney,95LL11,"3,989",0.22
+Drumgask,95LL12,"4,212",0.23
+Drumgor,95LL13,"2,745",0.15
+Drumnamoe,95LL14,"2,651",0.15
+Edenderry (Craigavon LGD),95LL15,"3,048",0.17
+Kernan,95LL16,"6,107",0.34
+Killycomain,95LL17,"2,539",0.14
+Knocknashane,95LL18,"3,351",0.19
+Magheralin,95LL19,"5,148",0.28
+Mourneview,95LL20,"2,401",0.13
+Parklake,95LL21,"3,983",0.22
+Taghnevan,95LL22,"3,728",0.21
+Tavanagh,95LL23,"2,157",0.12
+The Birches,95LL24,"3,769",0.21
+Waringstown,95LL25,"4,536",0.25
+Woodville,95LL26,"3,698",0.2
+Altnagelvin,95MM01,"4,862",0.27
+Ballynashallog,95MM02,"3,244",0.18
+Banagher,95MM03,"3,508",0.19
+Beechwood,95MM04,"2,151",0.12
+Brandywell,95MM05,"2,495",0.14
+Carn Hill,95MM06,"2,603",0.14
+Caw,95MM07,"2,601",0.14
+Clondermot,95MM08,"2,947",0.16
+Claudy,95MM09,"3,562",0.2
+Creggan Central,95MM10,"2,750",0.15
+Creggan South,95MM11,"2,277",0.13
+Crevagh,95MM12,"5,858",0.32
+Culmore,95MM13,"8,872",0.49
+Ebrington,95MM14,"2,569",0.14
+Eglinton,95MM15,"4,401",0.24
+Enagh (Derry LGD),95MM16,"5,745",0.32
+Foyle Springs,95MM17,"3,749",0.21
+Holly Mount,95MM18,"5,180",0.29
+Kilfennan,95MM19,"3,044",0.17
+Lisnagelvin,95MM20,"3,366",0.19
+New Buildings,95MM21,"3,406",0.19
+Pennyburn,95MM22,"2,492",0.14
+Rosemount,95MM23,"2,521",0.14
+Shantallow East,95MM24,"2,503",0.14
+Shantallow West,95MM25,"6,363",0.35
+Springtown,95MM26,"3,131",0.17
+Strand (Derry LGD),95MM27,"3,833",0.21
+The Diamond,95MM28,"2,351",0.13
+Victoria (Derry LGD),95MM29,"3,410",0.19
+Westland,95MM30,"2,083",0.12
+Ardglass,95NN01,"3,178",0.18
+Audley's Acre,95NN02,"2,211",0.12
+Ballymaglave,95NN03,"2,896",0.16
+Ballymote,95NN04,"2,934",0.16
+Ballynahinch East,95NN05,"2,497",0.14
+Castlewellan,95NN06,"3,542",0.2
+Cathedral,95NN07,"3,258",0.18
+Crossgar,95NN08,"3,269",0.18
+Derryboy,95NN09,"3,021",0.17
+Donard,95NN10,"3,193",0.18
+Drumaness,95NN11,"3,876",0.21
+Dundrum,95NN12,"2,851",0.16
+Dunmore,95NN13,"3,058",0.17
+Killough,95NN14,"3,559",0.2
+Killyleagh,95NN15,"2,994",0.17
+Kilmore,95NN16,"3,294",0.18
+Murlough,95NN17,"2,256",0.12
+Quoile,95NN18,"2,702",0.15
+Saintfield,95NN19,"3,381",0.19
+Seaforde,95NN20,"3,001",0.17
+Shimna,95NN21,"2,687",0.15
+Strangford,95NN22,"2,686",0.15
+Tollymore,95NN23,"3,387",0.19
+Altmore,95OO01,"2,592",0.14
+Augher,95OO02,"2,166",0.12
+Aughnacloy,95OO03,"2,651",0.15
+Ballygawley,95OO04,"2,515",0.14
+Ballysaggart,95OO05,"2,730",0.15
+Benburb,95OO06,"2,860",0.16
+Caledon,95OO07,"2,510",0.14
+Castlecaulfield,95OO08,"2,713",0.15
+Clogher,95OO09,"2,252",0.12
+Coalisland North,95OO10,"3,530",0.19
+Coalisland South,95OO11,"2,485",0.14
+Coalisland West and Newmills,95OO12,"2,803",0.15
+Coolhill,95OO13,"2,716",0.15
+Donaghmore (Dungannon LGD),95OO14,"2,588",0.14
+Drumglass,95OO15,"2,357",0.13
+Fivemiletown,95OO16,"2,114",0.12
+Killyman,95OO17,"2,724",0.15
+Killymeal,95OO18,"2,891",0.16
+Moy,95OO19,"3,009",0.17
+Moygashel,95OO20,"2,189",0.12
+Mullaghmore,95OO21,"2,351",0.13
+Washing Bay,95OO22,"3,106",0.17
+Ballinamallard,95PP01,"2,586",0.14
+Belcoo and Garrison,95PP02,"2,541",0.14
+Belleek and Boa,95PP03,"2,540",0.14
+Boho Cleenish and Letterbreen,95PP04,"3,185",0.18
+Brookeborough,95PP05,"2,367",0.13
+Castlecoole,95PP06,"3,876",0.21
+Derrygonnelly,95PP07,"2,812",0.16
+Derrylin,95PP08,"2,678",0.15
+Devenish,95PP09,"1,707",0.09
+Donagh,95PP10,"2,387",0.13
+Erne,95PP11,"2,627",0.15
+Florence Court and Kinawley,95PP12,"2,630",0.15
+Irvinestown,95PP13,"2,588",0.14
+Kesh Ederney and Lack,95PP14,"3,652",0.2
+Lisbellaw,95PP15,"3,190",0.18
+Lisnarrick,95PP16,"1,908",0.11
+Lisnaskea,95PP17,"2,580",0.14
+Maguiresbridge,95PP18,"3,131",0.17
+Newtownbutler,95PP19,"2,502",0.14
+Portora,95PP20,"3,117",0.17
+Rosslea,95PP21,"2,167",0.12
+Rossorry,95PP22,"2,444",0.13
+Tempo,95PP23,"2,590",0.14
+Antiville,95QQ01,"1,483",0.08
+Ballycarry,95QQ02,"2,582",0.14
+Ballyloran,95QQ03,"1,096",0.06
+Blackcave,95QQ04,"1,635",0.09
+Carncastle,95QQ05,"2,875",0.16
+Carnlough,95QQ06,"2,041",0.11
+Central (Larne LGD),95QQ07,"1,817",0.1
+Craigy Hill,95QQ08,"1,455",0.08
+Gardenmore,95QQ09,"1,916",0.11
+Glenarm,95QQ10,"1,851",0.1
+Glynn,95QQ11,"2,027",0.11
+Harbour (Larne LGD),95QQ12,"1,811",0.1
+Island Magee,95QQ13,"2,568",0.14
+Kilwaughter,95QQ14,"5,430",0.3
+Town Parks,95QQ15,"1,593",0.09
+Aghanloo,95RR01,"4,367",0.24
+Ballykelly,95RR02,"1,753",0.1
+Coolessan,95RR03,"1,422",0.08
+Dungiven,95RR04,"2,022",0.11
+Enagh (Limavady LGD),95RR05,"2,487",0.14
+Feeny,95RR06,"2,206",0.12
+Forest,95RR07,"2,449",0.14
+Glack,95RR08,"2,106",0.12
+Gresteel,95RR09,"3,671",0.2
+Greystone (Limavady LGD),95RR10,"1,338",0.07
+Magilligan,95RR11,"2,407",0.13
+Rathbrady,95RR12,"1,452",0.08
+Roeside,95RR13,"1,429",0.08
+The Highlands,95RR14,"1,969",0.11
+Upper Glenshane,95RR15,"2,458",0.14
+Ballinderry,95SS01,"5,128",0.28
+Ballymacash,95SS02,"4,287",0.24
+Ballymacbrennan,95SS03,"3,372",0.19
+Ballymacoss,95SS04,"7,572",0.42
+Blaris,95SS05,"3,375",0.19
+Collin Glen,95SS06,"5,899",0.33
+Derryaghy,95SS07,"9,464",0.52
+Dromara,95SS08,"4,698",0.26
+Drumbo,95SS09,"3,364",0.19
+Dunmurry,95SS10,"4,379",0.24
+Glenavy,95SS11,"5,697",0.31
+Harmony Hill,95SS12,"3,054",0.17
+Hilden,95SS13,"2,904",0.16
+Hillhall,95SS14,"2,905",0.16
+Hillsborough,95SS15,"3,758",0.21
+Kilwee,95SS16,"3,164",0.17
+Knockmore,95SS17,"4,298",0.24
+Lagan Valley,95SS18,"3,053",0.17
+Lambeg,95SS19,"2,737",0.15
+Lisnagarvy,95SS20,"2,605",0.14
+Maghaberry,95SS21,"4,716",0.26
+Magheralave,95SS22,"3,290",0.18
+Maze,95SS23,"3,816",0.21
+Moira,95SS24,"5,139",0.28
+Old Warren,95SS25,"2,589",0.14
+Poleglass,95SS26,"3,781",0.21
+Seymour Hill,95SS27,"2,502",0.14
+Tonagh,95SS28,"2,594",0.14
+Twinbrook,95SS29,"2,647",0.15
+Wallace Park,95SS30,"3,378",0.19
+Ballymaguigan,95TT01,"2,748",0.15
+Bellaghy,95TT02,"2,685",0.15
+Castledawson,95TT03,"3,329",0.18
+Draperstown,95TT04,"2,984",0.16
+Glebe (Magherafelt LGD),95TT05,"3,079",0.17
+Gulladuff,95TT06,"2,723",0.15
+Knockcloghrim,95TT07,"2,747",0.15
+Lecumpher,95TT08,"2,724",0.15
+Lower Glenshane,95TT09,"2,917",0.16
+Maghera,95TT10,"2,852",0.16
+Swatragh,95TT11,"3,291",0.18
+Tobermore,95TT12,"2,641",0.15
+Town Parks East,95TT13,"2,918",0.16
+Town Parks West,95TT14,"2,211",0.12
+Upperlands,95TT15,"2,498",0.14
+Valley (Magherafelt LGD),95TT16,"2,691",0.15
+Armoy,95UU01,"1,097",0.06
+Ballylough,95UU02,"1,043",0.06
+Bonamargy and Rathlin,95UU03,879,0.05
+Bushmills,95UU04,738,0.04
+Carnmoon,95UU05,993,0.05
+Dalriada,95UU06,"1,452",0.08
+Dunseverick,95UU07,813,0.04
+Glenaan,95UU08,"1,205",0.07
+Glenariff,95UU09,"1,690",0.09
+Glendun,95UU10,"1,216",0.07
+Glenshesk,95UU11,993,0.05
+Glentaisie,95UU12,"1,354",0.07
+Kinbane,95UU13,897,0.05
+Knocklayd,95UU14,"1,732",0.1
+Moss-Side and Moyarget,95UU15,948,0.05
+Annalong,95VV01,"3,211",0.18
+Ballybot,95VV02,"2,192",0.12
+Bessbrook,95VV03,"2,579",0.14
+Binnian,95VV04,"3,138",0.17
+Burren and Kilbroney,95VV05,"4,506",0.25
+Camlough,95VV06,"3,482",0.19
+Clonallan,95VV07,"4,393",0.24
+Creggan,95VV08,"3,088",0.17
+Crossmaglen,95VV09,"2,665",0.15
+Daisy Hill,95VV10,"3,155",0.17
+Derryleckagh,95VV11,"4,458",0.25
+Derrymore,95VV12,"3,195",0.18
+Donaghmore (Newry and Mourne LGD),95VV13,"3,473",0.19
+Drumalane,95VV14,"3,352",0.19
+Drumgullion,95VV15,"3,098",0.17
+Fathom,95VV16,"3,110",0.17
+Forkhill,95VV17,"4,356",0.24
+Kilkeel Central,95VV18,"3,687",0.2
+Kilkeel South,95VV19,"2,983",0.16
+Lisnacree,95VV20,"2,990",0.17
+Mayobridge,95VV21,"4,037",0.22
+Newtownhamilton,95VV22,"2,836",0.16
+Rostrevor,95VV23,"2,893",0.16
+Seaview,95VV24,"3,067",0.17
+Silver Bridge,95VV25,"3,770",0.21
+Spelga,95VV26,"3,583",0.2
+St Mary's,95VV27,"2,284",0.13
+St Patrick's,95VV28,"3,530",0.19
+Tullyhappy,95VV29,"3,366",0.19
+Windsor Hill,95VV30,"3,003",0.17
+Abbey,95WW01,"2,814",0.16
+Ballyclare North,95WW02,"3,851",0.21
+Ballyclare South,95WW03,"3,638",0.2
+Ballyduff,95WW04,"2,866",0.16
+Ballyhenry,95WW05,"2,772",0.15
+Ballynure,95WW06,"3,147",0.17
+Ballyrobert,95WW07,"4,255",0.23
+Burnthill,95WW08,"2,559",0.14
+Carnmoney,95WW09,"2,534",0.14
+Cloughfern,95WW10,"2,946",0.16
+Collinbridge,95WW11,"3,078",0.17
+Coole,95WW12,"2,409",0.13
+Doagh,95WW13,"3,674",0.2
+Dunanney,95WW14,"2,262",0.12
+Glebe (Newtownabbey LGD),95WW15,"3,316",0.18
+Glengormley,95WW16,"2,965",0.16
+Hawthorne,95WW17,"2,266",0.13
+Hightown,95WW18,"2,237",0.12
+Jordanstown,95WW19,"6,225",0.34
+Mallusk,95WW20,"8,338",0.46
+Monkstown,95WW21,"3,543",0.2
+Mossley,95WW22,"2,985",0.16
+Rostulla,95WW23,"4,894",0.27
+Valley (Newtownabbey LGD),95WW24,"3,494",0.19
+Whitehouse,95WW25,"2,071",0.11
+Ballycrochan,95XX01,"5,294",0.29
+Ballyholme,95XX02,"2,652",0.15
+Ballymaconnell,95XX03,"2,721",0.15
+Ballymagee,95XX04,"3,682",0.2
+Bangor Castle,95XX05,"2,627",0.15
+Bloomfield (North Down LGD),95XX06,"3,778",0.21
+Broadway,95XX07,"2,845",0.16
+Bryansburn,95XX08,"2,590",0.14
+Churchill,95XX09,"2,817",0.16
+Clandeboye,95XX10,"4,894",0.27
+Conlig,95XX11,"6,263",0.35
+Craigavad,95XX12,"2,540",0.14
+Crawfordsburn,95XX13,"2,770",0.15
+Cultra,95XX14,"2,477",0.14
+Dufferin,95XX15,"2,449",0.14
+Groomsport,95XX16,"3,005",0.17
+Harbour (North Down LGD),95XX17,"3,022",0.17
+Holywood Demesne,95XX18,"3,012",0.17
+Holywood Priory,95XX19,"2,675",0.15
+Loughview,95XX20,"3,434",0.19
+Princetown,95XX21,"2,846",0.16
+Rathgael,95XX22,"2,215",0.12
+Silverstream,95XX23,"3,155",0.17
+Spring Hill,95XX24,"2,705",0.15
+Whitehill,95XX25,"2,469",0.14
+Beragh,95YY01,"2,508",0.14
+Camowen,95YY02,"2,283",0.13
+Clanabogan,95YY03,"3,177",0.18
+Coolnagard,95YY04,"3,489",0.19
+Dergmoney,95YY05,"1,675",0.09
+Dromore,95YY06,"2,394",0.13
+Drumnakilly,95YY07,"2,916",0.16
+Drumquin,95YY08,"2,231",0.12
+Drumragh,95YY09,"2,315",0.13
+Fairy Water,95YY10,"2,142",0.12
+Fintona,95YY11,"2,046",0.11
+Gortin,95YY12,"2,836",0.16
+Gortrush,95YY13,"2,833",0.16
+Killyclogher,95YY14,"3,096",0.17
+Lisanelly,95YY15,"2,033",0.11
+Newtownsaville,95YY16,"2,392",0.13
+Owenkillew,95YY17,"2,350",0.13
+Sixmilecross,95YY18,"2,374",0.13
+Strule,95YY19,"1,496",0.08
+Termon,95YY20,"2,330",0.13
+Trillick,95YY21,"2,440",0.13
+Artigarvan,95ZZ01,"2,760",0.15
+Ballycolman,95ZZ02,"1,827",0.1
+Castlederg,95ZZ03,"2,109",0.12
+Clare,95ZZ04,"2,670",0.15
+Dunnamanagh,95ZZ05,"2,187",0.12
+East,95ZZ06,"1,714",0.09
+Finn,95ZZ07,"2,807",0.16
+Glenderg,95ZZ08,"2,593",0.14
+Newtownstewart,95ZZ09,"2,269",0.13
+North,95ZZ10,"3,179",0.18
+Plumbridge,95ZZ11,"2,223",0.12
+Sion Mills,95ZZ12,"2,190",0.12
+Slievekirk,95ZZ13,"2,533",0.14
+South,95ZZ14,"3,232",0.18
+Victoria Bridge,95ZZ15,"2,288",0.13
+West,95ZZ16,"3,262",0.18
